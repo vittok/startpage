@@ -38,15 +38,15 @@
   "linkInNewTab": true,
   "title": "startpage",
   "searchEngine":"DuckDuckGo",
-  "user": "Deepjyoti",
+  "user": "Viktor",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false,
   "disable24Hour": false,
   "disableWeather": true,
-  "timeZone": "America/Los_Angeles",
+  "timeZone": "Europe/Berlin",
   "weatherConf": {
-    "location": "Pune India",
+    "location": "Bratislava Slovakia",
     "unit": "cel"
   },
   "settingsIcon": false,
