@@ -1,12 +1,11 @@
 {
   "squares": [
-    { "name": "media",
-      "color": "red",
+    { "name": "work",
+      "color": "#26A69A",
       "links": [
-        { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com/", "newTab": false },
-        { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Youtube", "url": "https://youtube.com" }
+        { "name": "Clarity", "url": "https://clarityppm.1dc.com/niku/nu" },
+        { "name": "Workday", "url": "https://wd5.myworkday.com/fiserv/d/home.htmld" },
+        { "name": "ServiceNow", "url": "https://fiservservicepoint.fiservapps.com/nav_to.do?uri=%2Fhome_splash.do%3Fsysparm_direct%3Dtrue" }
       ]
     },
     { "name": "FCP",
@@ -18,15 +17,16 @@
         { "name": "FCP DEV", "url": "https://ybld2fcpaws0001.onefiserv.net:8443/" },
         { "name": "vRA PROD", "url": "https://fcp-vra-jc2.fiserv.one/automation-ui/#/deployment-ui;ash=%2F" },
         { "name": "vRA QA", "url": "https://fcp-vra-test-ljv.fiserv.one/" },
-        { "name": "vRA DEV", "url": "https://ybld2fcpaws0001.onefiserv.net:8443/" }
+        { "name": "vRA DEV", "url": "https://ybld2fcpaws0001.onefiserv.net:8443/" },
+        { "name": "vRA DEV", "url": "https://fiservcorp.sharepoint.com/sites/PCSA/Shared%20Documents/Forms/AllItems.aspx?id=/sites/PCSA/Shared%20Documents/General&viewid=90931b47-f3dc-41bc-a9ab-3c03aff348e9" }
       ]
     },
-    { "name": "work",
-      "color": "#26A69A",
+    { "name": "media",
+      "color": "red",
       "links": [
-        { "name": "Clarity", "url": "https://clarityppm.1dc.com/niku/nu" },
-        { "name": "Workday", "url": "https://wd5.myworkday.com/fiserv/d/home.htmld" },
-        { "name": "ServiceNow", "url": "https://fiservservicepoint.fiservapps.com/nav_to.do?uri=%2Fhome_splash.do%3Fsysparm_direct%3Dtrue" }
+        { "name": "Spotify", "url": "https://open.spotify.com/" },
+        { "name": "YoutubeMusic", "url": "https://music.youtube.com/", "newTab": false },
+        { "name": "Youtube", "url": "https://youtube.com" }
       ]
     },
     { "name": "social",
