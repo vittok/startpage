@@ -12,9 +12,9 @@
     { "name": "work",
       "color": "#26A69A",
       "links": [
-        { "name": "Github", "url": "https://github.com" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
-        { "name": "localhost", "url": "http://localhost:8000/" }
+        { "name": "Clarity", "url": "https://clarityppm.1dc.com/niku/nu" },
+        { "name": "Workday", "url": "https://wd5.myworkday.com/fiserv/d/home.htmld" },
+        { "name": "ServiceNow", "url": "https://fiservservicepoint.fiservapps.com/nav_to.do?uri=%2Fhome_splash.do%3Fsysparm_direct%3Dtrue" }
       ]
     },
     { "name": "social",
