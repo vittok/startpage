@@ -8,7 +8,9 @@
         { "name": "ServiceNow", "url": "https://fiservservicepoint.fiservapps.com/nav_to.do?uri=%2Fhome_splash.do%3Fsysparm_direct%3Dtrue" },
         { "name": "Gitlab", "url": "https://git-enterprise-jc.onefiserv.net/aurora" },
         { "name": "Azure DevOps", "url": "https://dev.azure.com/Fiserv-FTS/Platform%20Engineering/_backlogs/backlog/Server%20Build%20Orchestration/Features?showParents=true" },
-        { "name": "AHA!", "url": "https://fiserv.aha.io/products/PRIVCLD/feature_cards" }
+        { "name": "AHA!", "url": "https://fiserv.aha.io/products/PRIVCLD/feature_cards" },
+        { "name": "Fieldglass", "url": "https://myapps.microsoft.com/fiserv.com/signin/Fieldglass%20New/dc9beac0-873b-4062-b609-30c9505e1d29?tenantId=11873a1f-4c8d-450d-8dfb-e37a2e2557f8"},
+        { "name": "FUEL", "url": "https://fiservcorp.sharepoint.com/sites/fuel/" }
       ]
     },
     { "name": "fcp",
